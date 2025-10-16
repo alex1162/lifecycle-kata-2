@@ -12,6 +12,8 @@ Run app: **npm run dev**
 
 **Info:** it's not a problem that customers are lost when website is reloaded because in a future an API will be used to get them.
 
+![Demo](https://github.com/ReactMrk/lifecycle-kata/blob/main/src/assets/hooks-kata-solution-kata.gif?raw=true)
+
 **Exercise 1.**
 
 https://react.dev/reference/react/useEffect
